@@ -5,6 +5,9 @@ A modern, responsive country exploration web application built with **React, Typ
 World on the GO fetches country data from the Programming Hero Countries API and presents countries in an interactive card-based interface. Users can mark countries as visited and save individual flags as visited. Their selections persist in the browser even after refreshing the page.
 
 ---
+## 🚀 Live Demo
+
+### 🌐 [On the way world](https://onthegoworld.netlify.app)
 
 ## ✨ Features
 
